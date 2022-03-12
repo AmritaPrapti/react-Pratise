@@ -1,0 +1,28 @@
+{
+	"blogs": [
+		{
+			"title": "Pattern Leave-In Conditioner",
+			"body": "Totam ipsa? Occaecat erat, accumsan dictumst convallis blandit! Aperiam consequat voluptas! Vel? Esse magna habitasse incidunt! Diamlorem, interdum porro ultricies, architecto excepturi leo aliquet? Conubia voluptatem possimus quam anim quia.",
+			"id": "1",
+			"author": "Mario"
+		},
+		{
+			"title": "Pattern Lightweight Conditioner",
+			"body": "Totam ipsa? Occaecat erat, accumsan dictumst convallis blandit! Aperiam consequat voluptas! Vel? Esse magna habitasse incidunt! Diamlorem, interdum porro ultricies, architecto excepturi leo aliquet? Conubia voluptatem possimus quam anim quia.",
+			"id": "2",
+			"author": "Pario"
+		},
+		{
+			"title": "Pattern Travel Size Medium Conditioner",
+			"body": "Totam ipsa? Occaecat erat, accumsan dictumst convallis blandit! Aperiam consequat voluptas! Vel? Esse magna habitasse incidunt! Diamlorem, interdum porro ultricies, architecto excepturi leo aliquet? Conubia voluptatem possimus quam anim quia.",
+			"id": "3",
+			"author": "Tario"
+		},
+		{
+			"title": "Pattern Travel Size Hydration Shampoo",
+			"body": "Totam ipsa? Occaecat erat, accumsan dictumst convallis blandit! Aperiam consequat voluptas! Vel? Esse magna habitasse incidunt! Diamlorem, interdum porro ultricies, architecto excepturi leo aliquet? Conubia voluptatem possimus quam anim quia.",
+			"id": "4",
+			"author": "Sario"
+		}
+	]
+}
