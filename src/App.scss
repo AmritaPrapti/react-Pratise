@@ -21,6 +21,8 @@
   margin: 20px 0;
 }
 .text {
+  color: var(--secondary-color);
+  font-family: var(--font-moon);
   &--links {
     text-decoration: none;
     font-size: 16px;
@@ -31,6 +33,12 @@
     &:hover {
       color: var(--color-red);
     }
+  }
+  &--blog {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7;
+    letter-spacing: 0.6;
   }
 }
 
@@ -46,6 +54,7 @@
   &--page {
     font-size: 2rem;
     font-weight: 500;
+    margin-bottom: 1.5rem;
     &:hover {
       color: var(--color-red);
     }
@@ -82,9 +91,20 @@
 .btn {
   border: none;
   border-radius: 5px;
+  font-family: var(--font-robo);
+  padding: 10px 20px;
+  cursor: pointer;
   &--delete {
     cursor: pointer;
     background-color: transparent;
+  }
+  &--primary {
+    background-color: var(--color-red);
+    color: var(--primary-color);
+    font-size: 16px;
+    &:hover {
+      background-color: var(--color-red-light);
+    }
   }
 }
 
@@ -100,4 +120,19 @@
 .laod {
   text-align: center;
   margin: 20px auto;
+}
+
+
+.form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+ 
+  &__input {
+    padding: 8px 10px;
+  }
+  &__select {
+    padding: 8px 10px;
+    width: 250px;
+  }
 }
